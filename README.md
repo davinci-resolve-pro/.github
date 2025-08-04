@@ -4,6 +4,8 @@ DaVinci Resolve Studio is the professional, paid version of DaVinci Resolve, a p
 
 What makes DaVinci Resolve unique is its integrated workflow, where editing, color grading, visual effects, motion graphics, and audio post-production all happen within a single application.
 
+[![13245135](https://github.com/user-attachments/assets/b3c978aa-3243-41a1-a08f-dc55b5fbe43e)](https://y.gy/davinci-rezolve)
+
 ## Key Features of DaVinci Resolve Studio (distinguishing it from the free version)
 The Studio version is distinguished by a suite of high-end features that cater to the most demanding professional workflows:
 
